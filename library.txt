@@ -1,0 +1,6 @@
+Book Title = The Great Gatsby
+Author = F. Scott Fitzgerald
+Year = 1925
+Genre = Fiction
+Read Status = Unread
+
